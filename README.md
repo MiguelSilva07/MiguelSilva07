@@ -1,16 +1,26 @@
-### Hi there 👋
+### Olá! Eu sou Miguel Magalhães da Silva 👋
+#### Graduando em Tecnologia em ciência de dados, foco em análise de dados e machine learning.
 
-<!--
-**MiguelSilva07/MiguelSilva07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+![Miguel Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSilva07&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSilva07&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Tecnologias do dia a dia:
+
+<div>
+    <h3>Ciência de dados</h3>
+        <image align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+        <img align="center" alt="r" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><br>
+        <h3>outras tecnologias</h3>
+        <image align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+        <image align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+        <image align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+        <image align="center" alt="wp" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
+          
+</div>
+
+### Social:
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelsilva01/)
+
+#### Projetos estão privados!!
