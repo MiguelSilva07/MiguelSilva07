@@ -1,4 +1,4 @@
-### Olá! Eu sou Miguel Magalhães da Silva 👋
+### Olá! Eu sou Miguel Silva 👋
 #### Graduando em Tecnologia em ciência de dados, foco em análise de dados e machine learning.
 
 
