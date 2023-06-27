@@ -14,8 +14,8 @@
         <img align="center" alt="r" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
         <img align="center" alt="numpy" height="75" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
         <img align="center" alt="pytorch" height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" />
-        <img align="center" alt="pandas" height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-        <img align="center" alt="tensorflow" height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+        <img align="center" alt="pandas" height="45" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+        <img align="center" alt="tensorflow" height="80" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
           
           
             
