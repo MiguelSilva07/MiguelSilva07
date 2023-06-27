@@ -10,8 +10,14 @@
 
 <div>
     <h3>Ciência de dados</h3>
-        <image align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-        <img align="center" alt="r" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/><br>
+        <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+        <img align="center" alt="r" height="30" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+        <img align="center" alt="numpy" height="75" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+        <img align="center" alt="pytorch" height="60" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-plain-wordmark.svg" />
+        <img align="center" alt="" />
+          
+          
+            
 </div>
 
 ### Social:
