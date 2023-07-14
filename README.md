@@ -1,5 +1,5 @@
 ### Olá! Eu sou Miguel Silva 👋
-#### Graduando em Tecnologia em ciência de dados, com foco em análise de dados e machine learning.
+#### Graduando em Tecnologia em ciência de dados, com foco em machine learning.
 
 
 ![Miguel Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSilva07&show_icons=true&theme=tokyonight)
