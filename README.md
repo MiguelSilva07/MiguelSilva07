@@ -1,5 +1,5 @@
 <p>
-    <img src="https://github.com/miguelsilva07/raw/main/assets/git.gif" alt="oi, sou miguel">
+    <img src="https://github.com/miguelsilva07/miguelsilva07/raw/main/assets/git.gif" alt="oi, sou miguel">
 </p>
 
 
