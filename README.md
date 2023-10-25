@@ -1,3 +1,8 @@
+<p>
+    <img src="https://github.com/miguelsilva07/miguelsilva07/raw/main/assets/git.gif" alt="oi, sou miguel">
+</p>
+
+
 ### Olá! Eu sou Miguel Silva 👋
 #### Graduando em Tecnologia em ciência de dados, com foco em machine learning.
 
