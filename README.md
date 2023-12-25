@@ -10,7 +10,6 @@
 - Construindo algo novo!
 
 <div>
-    <h3>Linguagem de Programação</h3>
         <img align="center" alt="python" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />            
 </div>
 
