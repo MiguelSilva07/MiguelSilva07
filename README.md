@@ -10,7 +10,10 @@
 - Construindo algo novo!
 
 <div>
-        <img align="center" alt="python" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />            
+        <img align="center" alt="python" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+        <img align="center" alt="C" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+
+          
 </div>
 
 ### Social:
