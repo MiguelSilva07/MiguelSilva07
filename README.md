@@ -2,10 +2,11 @@
 <p>
     <img src="https://github.com/miguelsilva07/miguelsilva07/raw/main/assets/git.gif" alt="oi, sou miguel">
 </p>
+--->
 
 ![Miguel Silva's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelSilva07&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelSilva07&layout=compact)
---->
+
 
 - Construindo algo novo!
 
