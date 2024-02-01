@@ -16,7 +16,7 @@
 
 </div>
 
-![Snake animation](https://github.com/USERNAME/miguelsilva07/blob/output/github-contribution-grid-snake.svg)
+
 
 
 ### Rede social:
