@@ -9,11 +9,7 @@
 <div>
         <img align="center" alt="python" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
         <img align="center" alt="C" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-
 </div>
-
-
-
 
 ### Rede social:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguelsilva01/)
