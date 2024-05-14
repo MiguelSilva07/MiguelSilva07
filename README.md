@@ -8,7 +8,17 @@
 ### Tecnologias do dia a dia.
 <div>
         <img align="center" alt="python" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-        <img align="center" alt="C" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+        <img align="center" alt="R" height="35" weight="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rstudio/rstudio-original.svg" />  
+        <img align="center" alt="Mysql" height="35" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />  
+        <img align="center" alt="Numpy" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"/>
+        <img align="center" alt="Pandas" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+        <img align="center" alt="Pytorch" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" />
+        <img align="center" alt="Scikilearn" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg"/>
+        <img align="center" alt="git" height="50" weight="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
+          
+          
+        
+    
 </div>
 
 ### Rede social:
