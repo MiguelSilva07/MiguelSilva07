@@ -1,4 +1,4 @@
-# Hello World! My name is <strong>Miguel</strong>! 👋
+# Hello World! My name is <strong>Miguel Silva</strong>! 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -6,7 +6,7 @@
  
 
 <h2 align="left">
- 🦄 Stacks:
+ Stacks:
 </h2>
 
 
