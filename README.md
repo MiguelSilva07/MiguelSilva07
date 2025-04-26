@@ -1,12 +1,15 @@
 # Hello World! My name is <strong>Miguel Silva</strong>! 👋
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+![flutuando](https://github.com/user-attachments/assets/ad142994-51c7-4c8b-9a24-96fb80e8e3b6)
+
 
 <p align="left"> 
  
 
 <h2 align="left">
  Stacks:
+
+ 
 </h2>
 
 
