@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
- <h2>Desenvolvendo algo novo a cada dia</h2>
+<h2>Desenvolvendo algo novo a cada dia</h2>
 
 <h2 align="left">
  Stacks:
