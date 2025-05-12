@@ -1,10 +1,9 @@
 # Hello World! My name is <strong>Miguel Silva</strong>! 👋
-
 ![flutuando](https://github.com/user-attachments/assets/ad142994-51c7-4c8b-9a24-96fb80e8e3b6)
 
 
 <p align="left"> 
- 
+ <h2>Desenvolvendo algo novo a cada dia</h2>
 
 <h2 align="left">
  Stacks:
