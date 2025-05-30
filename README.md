@@ -1,5 +1,5 @@
 # Hello World! My name is <strong>Miguel Silva</strong>! 👋
-![flutuando](https://github.com/user-attachments/assets/ad142994-51c7-4c8b-9a24-96fb80e8e3b6)
+
 
 
 <p align="left"> 
@@ -62,25 +62,5 @@
 
 <br>
 
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=MiguelSilva07&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
 
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/MiguelSilva07/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
