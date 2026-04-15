@@ -24,7 +24,7 @@
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
 
-<a href="https://www.linkedin.com/in/miguelsilva01/" title="LinkedIn" target="_blank">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 <a href="https://wa.me/+5592993740070" title="WhatsApp" target="_blank">
