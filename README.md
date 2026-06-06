@@ -3,7 +3,7 @@
 
 
 <p align="left"> 
-<h2>Desenvolvedor Web</h2>
+<h2>Analista de TI | System Design | Cloud Computing | DevOps</h2>
 
 <h2 align="left">
  Stacks:
