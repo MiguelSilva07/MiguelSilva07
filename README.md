@@ -58,16 +58,6 @@ Linux • AWS • Docker • Kubernetes • Terraform • Python • Bash • Po
 - Infrastructure as Code
 </p>
 
-<h2 align="left">
- Stacks:
-
- 
-</h2>
-
-
-
-
-
 <p align="left">
   💌 Sinta-se a vontade para entrar em contato: ⤵️
 </p>
