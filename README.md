@@ -10,7 +10,7 @@
 
 💻 Analista de TI
 
-📚 Atualmente participando de uma formação de 8 meses pela LinuxTips:
+📚 Atualmente participando de uma formação de 8 meses pela LinuxTips em  System Design:
 
 - System Design
 - Cloud Computing
