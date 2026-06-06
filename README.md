@@ -5,6 +5,36 @@
 <p align="left"> 
 <h2>Analista de TI | System Design | Cloud Computing | DevOps</h2>
 
+<p>
+ # Olá! Eu sou Miguel Silva 👋
+
+💻 Analista de TI
+
+📚 Atualmente participando de uma formação de 8 meses em:
+
+- System Design
+- Cloud Computing
+- DevOps
+- SRE
+- Observability
+- Arquitetura Distribuída
+
+🚀 Construindo projetos focados em escalabilidade,
+infraestrutura moderna e automação.
+
+## Tecnologias
+
+Linux • Docker • Kubernetes • Terraform • AWS • Git • Python
+
+## Projetos em andamento
+
+- URL Shortener
+- Monitoring Stack
+- Cloud Architecture Labs
+- Kubernetes Labs
+- Infrastructure as Code
+</p>
+
 <h2 align="left">
  Stacks:
 
