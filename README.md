@@ -22,11 +22,8 @@
 🚀 Construindo projetos focados em escalabilidade,
 infraestrutura moderna e automação.
 
-## Tecnologias
-##
-
 <p align="left">
-## 🚀 Technologies & Tools
+## 🚀 Tecnologias e Ferramentas
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux"/>
